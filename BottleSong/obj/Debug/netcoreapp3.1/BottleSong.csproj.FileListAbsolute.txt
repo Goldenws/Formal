@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.exe
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.deps.json
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.dll
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.pdb
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.dll
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.pdb
+C:\Users\Roland Strod\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.genruntimeconfig.cache

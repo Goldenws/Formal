@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.exe
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.deps.json
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\Roland Strod\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.genruntimeconfig.cache
